@@ -11,7 +11,6 @@ The E-Commerce Website Laravel is a web application that facilitates online buyi
 - [Usage](#usage)
 - [Functionality](#functionality)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
