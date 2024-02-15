@@ -17,7 +17,7 @@ The E-Commerce Website Laravel is a web application that facilitates online buyi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/gmpsankalpa/E-Commerce-Website-Laravel.git
+   git clone https://github.com/gmpsankalpa/SWT2202-IAD-Mini-Project-E-Commerce-Website-Laravel.git
 
 2. **Navigate to the project directory:**
 
