@@ -101,5 +101,5 @@ The E-Commerce Website Laravel is a web application that facilitates online buyi
     5.Create a pull request
 
 ## Feel free to contribute, report issues, or provide feedback. Happy coding!
-Replace placeholders like `your-username`, `your-database-host`, etc., with your actual information. Additionally, customize the sections based on the specifics of your project.
+
 
