@@ -49,8 +49,14 @@ The E-Commerce Website Laravel is a web application that facilitates online buyi
 
    ```bash
    php artisan migrate
-
+   
 ## Project Setup
+
+    ```bash
+    Ensure that your web server is configured to point to the public directory.
+    Set up a virtual host if necessary.
+
+## Usage
 
 1. **Run the development server:**
 
@@ -60,7 +66,37 @@ The E-Commerce Website Laravel is a web application that facilitates online buyi
 2. **Access the application in your browser:**
 
    ```bash
-   [php artisan serve](http://localhost:8000)http://localhost:8000
+   http://localhost:8000
 
+## Functionality
 
+    	User Module:
+        •	Registration and Login
+        •	Profile Management
+        •	Shopping Cart
+        •	Order History
+    
+    	Admin Module:
+        •	Product Management
+        •	User Management
+        •	Order Management
+        
+    	Product Module:
+        •	Product Listings
+        •	Product Details
+    
+    	Transaction Module:
+        •	Secure Payment Gateway Integration
+        •	Order Processing
+    
+    	Security Measures:
+        •	Encryption for sensitive data
+        •	Authentication and Authorization mechanisms
+        
+## Contributing
    
+    1.[nipulsandeepa](https://github.com/nipulsandeepa)
+    2.Create a new branch (git checkout -b feature/new-feature)
+    3.Commit your changes (git commit -m 'Add new feature')
+    4.[gmpsankalpa](https://github.com/gmpsankalpa)
+    5.Create a pull request
