@@ -51,9 +51,8 @@ The E-Commerce Website Laravel is a web application that facilitates online buyi
    
 ## Project Setup
 
-    ```bash
-    Ensure that your web server is configured to point to the public directory.
-    Set up a virtual host if necessary.
+    *Ensure that your web server is configured to point to the public directory.
+    *Set up a virtual host if necessary.
 
 ## Usage
 
